@@ -1,0 +1,5 @@
+Film: Star Wars	 Çıkış Yılı: 1996
+Film: Fight Club	 Çıkış Yılı: 1999
+Film: Oppenheimer	 Çıkış Yılı: 2023
+Film: Dunkirk	 Çıkış Yılı: 2019
+Film: The Machinist	 Çıktığı yıl: 2004
