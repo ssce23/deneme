@@ -2,6 +2,9 @@
 
 int main(){
 
+
+	printf("asder\n");
+
 	int a = 21;
 	int*b;
 	int c;
